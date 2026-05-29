@@ -32,4 +32,4 @@ O sistema foi desenvolvido sob rígidas diretrizes éticas: **não realiza diagn
 5. Insira seus sintomas no prompt de comando quando solicitado.
 
 ## Vídeo de Apresentação
-[[🔗 Clique aqui para assistir ao vídeo de demonstração no YouTube](INSERIR_LINK_AQUI)](https://youtu.be/Ww2icqvoD3o)
+(https://youtu.be/Ww2icqvoD3o)
